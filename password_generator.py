@@ -1,4 +1,4 @@
-#its a beginner python program for generating a strong password 
+i#its a beginner python program for generating a strong password 
 
 #made  using random module loops , list , and string concept.
 import random
